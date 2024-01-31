@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{82E19678-E8B2-7E00-C9AC-85B8094BD43C}</ProjectGuid>
+    <ProjectGuid>{E3C873C8-2E8B-CCF4-DEA7-3AB1282C842F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.InputSystem.ForUI</AssemblyName>
@@ -958,7 +958,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.InputSystem.csproj">
-      <Project>{0C1CD002-B89F-8A54-3332-315A11116EBD}</Project>
+      <Project>{E4081192-C230-97C9-E3F8-5EAF60E92B5D}</Project>
       <Name>Unity.InputSystem</Name>
     </ProjectReference>
   </ItemGroup>
